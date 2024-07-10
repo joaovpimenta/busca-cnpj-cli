@@ -1,5 +1,6 @@
 package com.joaopimenta.busca_cnpj;
 
+import org.jline.terminal.TerminalBuilder;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
